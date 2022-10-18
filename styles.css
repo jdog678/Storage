@@ -1,0 +1,15 @@
+* {
+    justify-content: center;
+    align-items: center;
+    background-color: green;
+    text-align: center;
+}
+button {
+    font-size: 30px;
+}
+input   {
+    font-size: 30px;
+}
+p   {
+    font-size: 30px;
+}
